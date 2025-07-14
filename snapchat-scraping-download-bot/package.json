@@ -1,0 +1,11 @@
+{
+  "name": "snapchat-scraping-download-bot",
+  "version": "1.0.0",
+  "main": "snapchat-scraping-download-bot.js",
+  "author": "FEPO CODES",
+  "url": "https://fepo.codes",
+  "dependencies": {}
+}
+// Node JS v22.13.0
+// NPM 10.9.2
+// BY https://fepo.codes

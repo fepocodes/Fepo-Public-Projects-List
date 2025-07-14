@@ -1,0 +1,15 @@
+{
+  "name": "telegram-send-group-message-bot",
+  "version": "1.0.0",
+  "main": "telegram-send-group-message-bot.js",
+  "author": "FEPO CODES",
+  "url": "https://fepo.codes",
+  "dependencies": {
+    "path": "*",
+    "fs": "*",
+    "date-and-time": "*",
+    "tdl": "*",
+    "prebuilt-tdlib": "*",
+    "dotenv": "*"
+  }
+}

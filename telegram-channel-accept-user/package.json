@@ -1,0 +1,17 @@
+{
+  "name": "telegram-channel-accept-user",
+  "version": "1.0.0",
+  "main": "telegram-channel-accept-user.js",
+  "author": "FEPO CODES",
+  "url": "https://fepo.codes",
+  "dependencies": {
+    "path": "*",
+    "dotenv": "*",
+    "telegram": "*",
+    "input": "*",
+    "fs": "*"
+  }
+}
+// Node JS v22.13.0
+// NPM 10.9.2
+// BY https://fepo.codes

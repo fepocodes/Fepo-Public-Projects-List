@@ -1,0 +1,18 @@
+{
+  "name": "telegram-scraping-channels-groups-messages-users-bot",
+  "version": "1.0.0",
+  "main": "telegram-scraping-channels-groups-messages-users-bot.js",
+  "author": "FEPO CODES",
+  "url": "https://fepo.codes",
+  "dependencies": {
+    "path": "*",
+    "dotenv": "*",
+    "tdl": "*",
+    "prebuilt-tdlib": "*",
+    "fs-extra": "*",
+    "glob": "*"
+  }
+}
+// Node JS v22.13.0
+// NPM 10.9.2
+// BY https://fepo.codes
