@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bot-setup-like-rt",
+  "version": "1.0.0",
+  "main": "twitter-bot-setup-like-rt.js",
+  "author": "FEPO CODES",
+  "url": "https://fepo.codes",
+  "dependencies": {
+    "puppeteer-extra": "*",
+    "puppeteer-extra-plugin-stealth": "*",
+    "@todesktop/robotjs-prebuild": "*",
+    "path": "*",
+    "fs": "*"
+  }
+}
+// Node JS v22.13.0
+// NPM 10.9.2
+// BY https://fepo.codes
