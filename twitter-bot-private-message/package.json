@@ -1,0 +1,11 @@
+{
+  "name": "twitter-bot-private-message",
+  "version": "1.0.0",
+  "main": "twitter-bot-private-message.js",
+  "author": "FEPO CODES",
+  "url": "https://fepo.codes",
+  "dependencies": {}
+}
+// Node JS v22.13.0
+// NPM 10.9.2
+// BY https://fepo.codes
